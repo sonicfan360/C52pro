@@ -1,0 +1,21 @@
+.Info{
+    background-color:  #0000FF;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap
+}
+.GImage{
+    width:50%;
+    
+
+}
+.facts{
+    background-color: #0000FF;
+    color:#00FF00;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
